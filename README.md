@@ -1,3 +1,4 @@
+<html>
 <script>
 // 点击量饼图数据
 const clickLabel = ["哔哩哔哩(大号 播放量)", "哔哩哔哩(大号 阅读量)", "哔哩哔哩(小号 播放量)", "哔哩哔哩(小号 阅读量)", "知乎", "CSDN", "VSMarketplace"];
@@ -91,3 +92,4 @@ const doughnutBackgroundColor = ["rgba(255, 99, 132)", "rgba(255, 159, 64)", "rg
         });
     </script>
 </div>
+</html>
