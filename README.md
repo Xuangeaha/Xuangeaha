@@ -1,13 +1,13 @@
 <div class="intro" style="font: sans-serif;">
-    <div id="header">
+    <div>
         <p>
-            <div class="righticon">
+            <div style="float: right; width: 12%;">
                 <img src="https://pic1.zhimg.com/v2-034e4491e6713632f718100cc4dbd697_xl.jpg?source=32738c0c" width="100" alt="轩哥啊哈OvO">
             </div>
         </p>
-        <h1>轩哥啊哈OvO的官方网站</h1>
+        <h1>轩哥啊哈OvO</h1>
         <br>
-        <div class="introduction">
+        <div>
             <p>
                 一位初中B站UP主、知乎博主、CSDN博主，还是一位代码菌~
                 Minecraft八年玩家一枚，在B站分享有趣的游戏、生活区视频，在知乎回答Minecraft游戏区和编程区问题，在CSDN分享自制有趣的程序、教程等编程内容~</p>
@@ -59,11 +59,11 @@
             </p>
         </div>
     </div>
-    <div id="content">
-        <div class="sidebarblock">
-            <div class="content">
-                <div class="title">简介</div>
-                <div class="paragraph">
+    <div>
+        <div>
+            <div>
+                <div>简介</div>
+                <div>
                     <p>
                         &emsp;&emsp;一位初中B站UP主、知乎博主、CSDN博主，还是一位代码菌~<br>
                         &emsp;&emsp;B站up主、Minecraft八年玩家一枚。2015年1.7.10入坑，热爱生存和建筑，永远讨厌红石。
