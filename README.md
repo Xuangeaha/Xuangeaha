@@ -35,7 +35,7 @@
         <a href="https://gitlab.com/Xuangeaha">
             <img src="https://gitlab.com/favicon.ico" width="15" alt="Gitlab">
             Gitlab&emsp;
-        </a><br>
+        </a>
         <a href="https://gitee.com/xuangeaha">
             <img src="https://gitee.com/favicon.ico" width="15" alt="Gitee">
             Gitee&emsp;
