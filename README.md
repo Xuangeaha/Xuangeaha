@@ -1,8 +1,8 @@
 <div class="intro" style="font: sans-serif;">
     <h1>轩哥啊哈OvO</h1>
     <p>
-        一位初中B站UP主、知乎博主、CSDN博主，还是一位代码菌~
-        Minecraft八年玩家一枚，在B站分享有趣的游戏、生活区视频，在知乎回答Minecraft游戏区和编程区问题，在CSDN分享自制有趣的程序、教程等编程内容~
+        一位高中代码菌，也是B站UP主、知乎博主与CSDN博主~<br>>>> 全网点击量150w+ | 个人主页：xuangeaha.github.io<br><br>
+        Minecraft九年玩家一枚，在B站分享有趣的游戏、生活区视频，在知乎回答Minecraft游戏区和编程区问题，在CSDN分享自制有趣的程序、教程等编程内容~
     </p>
         <a href="https://xuangeaha.github.io">
             <img src="https://pic1.zhimg.com/v2-034e4491e6713632f718100cc4dbd697_xl.jpg?source=32738c0c" width="18" alt="个人主页">
