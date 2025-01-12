@@ -24,7 +24,7 @@
             <img src="https://www.zhihu.com/favicon.ico" width="15" alt="知乎">
             知乎 Zhihu
         </a>&nbsp;
-        <a href="https://xuangeaha.blog.csdn.net">
+        <a href="https://blog.csdn.net/Xuange_Aha">
             <img src="https://blog.csdn.net/favicon.ico" width="15" alt="CSDN">
             CSDN
         </a>&nbsp;
