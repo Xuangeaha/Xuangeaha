@@ -5,7 +5,7 @@
         Minecraft十年玩家一枚，在B站分享有趣的游戏、生活区视频，VSMarketplace维护精致实用的VSCode插件，在CSDN分享自制有趣的程序、教程等编程内容~
     </p>
     <p>
-        A high school coder and content creator (Bilibili, Zhihu, CSDN etc) with over 2 million total views. My homepage: xuangeaha.xyz
+        A high school coder and content creator (Bilibili, Zhihu, CSDN etc) with over 2 million total views. | My homepage: xuangeaha.xyz<br>
         A Minecraft player for ten years, create lifestyle and gaming videos on Bilibili, maintain useful VSCode extension in VSMarketplace and publish tutorials and fun projects on CSDN.
     </p>
         <a href="https://xuangeaha.github.io">
